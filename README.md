@@ -1,4 +1,4 @@
-# ImprovedPythonNotepad
+# PythonNotepad
 This is a simple notepad that will be updated as much as possible.
 This project was something I worked on for my Computer Science class after we learned about APIs. We were given the freedom to choose a project, and I decided to create a tool that combines several interesting features like voice recognition, text-to-speech, and file management, all within a simple graphical interface. My goal was to practice using APIs and strengthen my Python skills by building something practical and interactive.
 
